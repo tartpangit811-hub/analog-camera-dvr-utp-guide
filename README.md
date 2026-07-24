@@ -78,3 +78,13 @@ MIT License - Free to use and modify.
 
 ---
 Made with ❤️ for Filipino Technicians
+
+## 5. Materials & Estimated Cost PH
+| Item | Qty | Est. Price |
+| --- | --- | --- |
+| 8CH DVR | 1 | ₱3,500 |
+| Analog Camera 1080p | 8 | ₱6,400 |
+| CAT6 Cable Box | 1 | ₱2,800 |
+| UTP Balun Passive | 16 | ₱800 |
+| 12V 10A Power Supply | 1 | ₱650 |
+| **Total Est.** |  | **₱14,150** |
