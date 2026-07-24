@@ -72,7 +72,20 @@ A: Hindi. 1 CAT6 = 1 Camera lang for Analog.
 
 **Q: Gaano kalayo kaya?** 
 A: Up to 300m using Passive Balun.
+## 6. Troubleshooting Guide
 
+**Q: Walang lumalabas sa Monitor**
+- **A:** Check kung naka-set yung DVR sa tamang output `HDMI/VGA`. Check power ng DVR 12V 5A.
+
+**Q: May 1-2 camera na "No Signal"**
+- **A:** 1. Check kung mahigpit yung balun sa camera side at DVR side
+         2. Swap mo yung port sa DVR. Pag gumana, DVR port sira. Pag hindi, cable/balun sira.
+
+**Q: Madilim/Nag-no-noise yung gabi**
+- **A:** Kulang sa power. Dapat 12V 10A power supply gamit mo sa 8 cameras. Wag magtipid.
+
+**Q: May guhit-guhit yung video**
+- **A:** May power interference. Ihiwalay mo yung CAT6 sa mga 220V na wire.
 ## 10. License
 MIT License - Free to use and modify.
 
@@ -88,3 +101,4 @@ Made with ❤️ for Filipino Technicians
 | UTP Balun Passive | 16 | ₱800 |
 | 12V 10A Power Supply | 1 | ₱650 |
 | **Total Est.** |  | **₱14,150** |
+
